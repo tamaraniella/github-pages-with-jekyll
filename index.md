@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Tamara Niella"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I am a PhD Candidate in Social Psychology at University of Oregon 
